@@ -1,0 +1,2 @@
+## goldmine:
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjJ-Y-VpuaOAxXEe2wGHfQlDB4QFnoECB8QAQ&url=https%3A%2F%2Fwww.instructables.com%2FCherry-Pi-Split-Mechanical-Keyboard%2F&usg=AOvVaw2vDoQ39p6QnIgGAsK4xfnt&opi=89978449

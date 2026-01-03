@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date_discovered": "datetime",
+    "last_reviewed": "datetime"
+  }
+}

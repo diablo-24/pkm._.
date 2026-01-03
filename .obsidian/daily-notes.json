@@ -1,0 +1,6 @@
+{
+  "folder": "06_Daily",
+  "template": "98_Templates/Daily_template",
+  "autorun": true,
+  "format": "YYYY/MM-MMM/[Week]-WW/YYYY-MM-DD(ddd)"
+}
