@@ -1,2 +1,3 @@
 - [ ] acetone shoes clean 
+- [ ] verify dot grid checklist pic
 - [ ] 
