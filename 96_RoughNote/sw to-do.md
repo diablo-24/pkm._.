@@ -1,0 +1,6 @@
+- [ ] git web
+- [ ] https://graphite.com/guides/smartlog
+- [ ] https://www.nist.gov/cyberframework
+- [ ] ahk debounce
+- [ ] retain normal shift + f10 operation
+- [ ] 
