@@ -1,0 +1,3 @@
+- [ ] https://gitprotect.io/resources.html#wp
+- [ ] https://midnight.network/whitepaper
+- [ ] 

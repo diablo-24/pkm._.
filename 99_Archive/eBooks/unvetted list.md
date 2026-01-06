@@ -1,0 +1,3 @@
+- [ ] https://www.perforce.com/resources/ebooks-papers
+- [ ] https://gitprotect.io/resources.html#eb
+- [ ] 

@@ -1,0 +1,7 @@
+- [ ] https://graphite.com/blog
+- [ ] mydeveloperplanet.com
+- [ ] alblue.bandlem.com
+- [ ] https://www.perforce.com/blog
+- [ ] https://gitprotect.io/blog/
+- [ ] https://midnight.network/blog
+- [ ] 

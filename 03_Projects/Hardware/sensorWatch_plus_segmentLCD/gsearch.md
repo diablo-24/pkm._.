@@ -1,0 +1,3 @@
+- [ ] https://joeycastillo.github.io/Sensor-Watch/group__slcd.html
+- [ ] https://hackaday.io/project/10254-segment-led-display-smart-wrist-watch
+- [ ] 
