@@ -3,4 +3,9 @@
 - [ ] https://www.nist.gov/cyberframework
 - [ ] ahk debounce
 - [ ] retain normal shift + f10 operation
+- [ ] https://kokoroe.konomi.app/docs/office-scripts/
+- [ ] https://kokoroe.konomi.app/docs/gas/
+- [ ] https://kokoroe.konomi.app/docs/pad/
+- [ ] use cofounder.ai to verify startup idea [link](https://aicofounder.com/pricing)
+- [ ] other [link](https://www.cofounder.ai/)
 - [ ] 

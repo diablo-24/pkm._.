@@ -4,4 +4,11 @@
 - [ ] https://www.perforce.com/blog
 - [ ] https://gitprotect.io/blog/
 - [ ] https://midnight.network/blog
+- [ ] https://ribbit.konomi.app/
+- [ ] https://qiita.com/about
+- [ ] https://zenn.dev/about
+- [ ] https://matrix.org/
+- [ ] https://matrix.to/#/#triliumnext:matrix.org
+- [ ] https://attariclasses.in/blog
+- [ ] https://www.bitovi.com/blog
 - [ ] 

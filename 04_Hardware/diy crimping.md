@@ -1,0 +1,1 @@
+https://forum.arduino.cc/t/how-to-connect-tiny-signal-wires-into-screw-terminal-blocks/966598
