@@ -8,4 +8,6 @@
 - [ ] https://kokoroe.konomi.app/docs/pad/
 - [ ] use cofounder.ai to verify startup idea [link](https://aicofounder.com/pricing)
 - [ ] other [link](https://www.cofounder.ai/)
+- [ ] switch from ext2 to ext4 to be safe from y2k38?
+- [ ] alecs open smart camera [link](https://www.alliedvision.com/en/allied-vision-embedded-camera-solution/)
 - [ ] 

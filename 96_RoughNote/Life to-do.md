@@ -1,4 +1,8 @@
 - [ ] acetone shoes clean 
 - [ ] verify dot grid checklist pic
 - [ ] and write in home grid 
-- [ ] expand bag, nua heat patch 
+- [ ] https://www.linkedin.com/posts/seeedstudio_reachy-mini-an-open-journey-built-together-activity-7414202865809977344-nQrT
+- [ ] https://www.linkedin.com/posts/seeedstudio_reachy-mini-an-open-journey-built-together-activity-7414202865809977344-nQrT
+- [ ] https://vnav.mit.edu/
+- [ ] https://colab.research.google.com/drive/1C5wxGyARWFAH_XkRsR30JpqugkLT82KT#scrollTo=1dYmaehrcA7Q
+- [ ] 

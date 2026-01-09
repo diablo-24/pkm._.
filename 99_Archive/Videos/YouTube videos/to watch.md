@@ -1,0 +1,14 @@
+- [ ] https://www.youtube.com/watch?v=_OmpRDWRT9U
+- [ ] https://www.youtube.com/watch?v=XEPClBBEmXg
+- [ ] https://www.youtube.com/watch?v=knVaCNiH-8I
+- [ ] https://www.youtube.com/watch?v=MwX-3eK8o4s
+- [ ] https://www.youtube.com/watch?v=uDCntmS89YE
+- [ ] https://www.youtube.com/watch?v=BiY2yUwTgQc
+- [ ] https://www.youtube.com/watch?v=3z9CU1wj9aM
+- [ ] https://www.youtube.com/watch?v=gz-S4bv2CyI
+- [ ] https://www.youtube.com/watch?v=pI5rICybppE
+- [ ] https://www.youtube.com/watch?v=QOPNT6n3Hto
+- [ ] https://www.youtube.com/watch?v=D_KSR3S6W8I
+- [ ] https://www.youtube.com/watch?v=8RHrs2G7uHI
+- [ ] https://www.youtube.com/watch?v=bmZaYn3WipI
+- [ ] 
